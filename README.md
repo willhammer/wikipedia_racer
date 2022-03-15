@@ -9,4 +9,4 @@ nltk
 get them with "pip install <package>" from admin cmd
 
 usage:
-wikipediaracer.bat <start word> <target word>
+wikipediaracer.bat start_word target_word
